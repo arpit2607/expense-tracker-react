@@ -14,6 +14,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
     ```bash
     git clone https://github.com/arpit2607/expense-tracker-react.git
+    cd expense-tracker-react
     ```
 
 2. Install dependencies:
